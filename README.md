@@ -1,6 +1,9 @@
 # python3
 
 ## Installations
+## Python Link ##
+https://www.python.org/
+
 ```commandline
 pip install jupyter
 pip install nba_api
