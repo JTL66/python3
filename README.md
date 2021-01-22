@@ -33,7 +33,7 @@ $ jupyter notebook
     - Review
     - Block Letters
       - [x] [`initials.py`](https://github.com/JTL66/python3/blob/main/initials.py)
-      - [x] [`initials.py`](https://github.com/JTL66/python3/blob/main/initials.py)
+      - [x] [`snowman.py`](https://github.com/JTL66/python3/blob/main/snowman.py)
 
 
 - Control Flow
