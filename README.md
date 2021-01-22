@@ -30,7 +30,7 @@ $ jupyter notebook
     - Plus Equals
     - Multi-line Strings
     - Block Letters
-    [x] [`lect1.ipynb`](https://github.com/JTL66/python3/blob/main/lec1.ipynb)
+    [x] [`initials.py`](https://github.com/JTL66/python3/blob/main/lec1.ipynb)
     - 
 
 
