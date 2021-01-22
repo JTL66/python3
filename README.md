@@ -1,11 +1,11 @@
-### python3
+# python3
 
 ## Installations
 ## Python Link ##
 https://www.python.org/
 
 
-# Required packages:
+### Required packages:
 ```commandline
 pip install jupyter
 ```
