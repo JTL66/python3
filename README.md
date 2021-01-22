@@ -1,18 +1,17 @@
-# python3
+### python3
 
 ## Installations
 ## Python Link ##
 https://www.python.org/
 
+
+# Required packages:
 ```commandline
 pip install jupyter
-pip install nba_api
 ```
 ```commandline
 $ jupyter notebook
 ```
-
-
 
 ## Getting Started
 - Table of Contents
