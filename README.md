@@ -30,9 +30,10 @@ $ jupyter notebook
     - Concatenation
     - Plus Equals
     - Multi-line Strings
+    - Review
     - Block Letters
       - [x] [`initials.py`](https://github.com/JTL66/python3/blob/main/initials.py)
-    - 
+      - [x] [`initials.py`](https://github.com/JTL66/python3/blob/main/initials.py)
 
 
 - Control Flow
