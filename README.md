@@ -14,6 +14,7 @@ $ jupyter notebook
 ## Getting Started
 - Table of Contents
 - Hello World
+
   [x] [`lect1.ipynb`](https://github.com/JTL66/python3/blob/main/lec1.ipynb)
     - Welcome
     - Comments
