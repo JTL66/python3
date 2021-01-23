@@ -18,7 +18,7 @@ $ jupyter notebook
 - Hello World
 
   - [x] [`lect1.ipynb`](https://github.com/JTL66/python3/blob/main/lec1.ipynb)
-  1. [Numbers](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/numbers.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/numbers.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/numbers_exercise.ipynb)
+  1. [Numbers](https://github.com/JTL66/python3/blob/main/Helloworld/numbers.html) [[notebook]](https://github.com/JTL66/python3/blob/main/Helloworld/numbers.ipynb) [[exercise]](https://github.com/JTL66/python3/blob/main/Helloworld/numbers.ipynbnumbers_exercise.ipynb)
     - Welcome
     - Comments
     - Helloworld
