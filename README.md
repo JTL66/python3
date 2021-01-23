@@ -39,7 +39,13 @@ $ jupyter notebook
 
 
 - Control Flow
-    - 
+    - [The `if` statement](https://github.com/JTL66/python3/blob/main/test_if.py)
+    - [The `for` statement](https://github.com/JTL66/python3/blob/main/test_for.py) (and `range()` function)
+    - [The `while` statement](https://github.com/JTL66/python3/blob/main/test_while.py)
+    - [The `try` statements](https://github.com/JTL66/python3/blob/main/test_try.py)
+    - [The `break` statement](https://github.com/JTL66/python3/blob/main/test_break.py)
+    - [The `continue` statement](https://github.com/JTL66/python3/blob/main/test_continue.py)
+    
 - Functions
     - 
     
