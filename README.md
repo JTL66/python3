@@ -18,14 +18,13 @@ $ jupyter notebook
 - Hello World
 
   - [x] [`lect1.ipynb`](https://github.com/JTL66/python3/blob/main/lec1.ipynb)
-  - [Numbers](https://github.com/JTL66/python3/blob/main/Helloworld/numbers.ipynb) 
     - Welcome
     - Comments
     - Helloworld
     - Strings
     - Variables
     - Errors
-    - Numbers
+    - [Numbers](https://github.com/JTL66/python3/blob/main/Helloworld/numbers.ipynb) 
     - Calculations
     - Changing Numbers
     - Exponents
