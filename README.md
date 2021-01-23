@@ -21,7 +21,7 @@ $ jupyter notebook
     - Welcome
     - Comments
     - Helloworld
-    - Strings
+    - [Strings] (https://github.com/JTL66/python3/blob/main/Helloworld/strings.ipynb)
     - Variables
     - Errors
     - [Numbers](https://github.com/JTL66/python3/blob/main/Helloworld/numbers.ipynb) 
