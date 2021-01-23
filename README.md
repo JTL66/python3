@@ -18,6 +18,7 @@ $ jupyter notebook
 - Hello World
 
   - [x] [`lect1.ipynb`](https://github.com/JTL66/python3/blob/main/lec1.ipynb)
+  1. [Numbers](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/numbers.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/numbers.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/numbers_exercise.ipynb)
     - Welcome
     - Comments
     - Helloworld
@@ -45,7 +46,7 @@ $ jupyter notebook
     - [The `try` statements](https://github.com/JTL66/python3/blob/main/test_try.py)
     - [The `break` statement](https://github.com/JTL66/python3/blob/main/test_break.py)
     - [The `continue` statement](https://github.com/JTL66/python3/blob/main/test_continue.py)
-    
+
 - Functions
     - 
     
